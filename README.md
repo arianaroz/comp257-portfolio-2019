@@ -1,12 +1,12 @@
-COMP257/ITEC657 Data Science Portfolio 
+COMP257 Data Science Portfolio 
 ===
 
-This repository will hold your portfolio projects for this semester. You should customise this README.md file
-to document your own work - add your name and details and describe what you've done.  This will be displayed
-on your Github page.
+Ariana Rozsnoyi
+Repository of portfolio projects for this semester.
 
-Portfolio projects
+Portfolio projects:
 
 1. Analysis of CSV data for cycling 
+2. Appliances energy prediction data
 
 
