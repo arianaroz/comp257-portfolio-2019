@@ -1,7 +1,8 @@
 COMP257 Data Science Portfolio 
 ===
 
-Ariana Rozsnoyi 
+Ariana Rozsnoyi
+
 Repository of portfolio projects for this semester.
 
 Portfolio projects:
