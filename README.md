@@ -5,11 +5,11 @@ Ariana Rozsnyoi
 
 Repository of portfolio projects for semester 2 2019.
 
-###### **Portfolio 1: Analysis of CSV data for cycling**
+**Portfolio 1: Analysis of CSV data for cycling**
 
 An analysis of cycling data derived from the apps Strava and GoldenCheetah. The two datasets were joined using the join method in Pandas to form one dataset for analysis. The portfolio explores the relationships between the different variables such as: Distance, Average Speed, Heart Rate, Training Stress Score, Avergage Power, Workout Type and Elevation Gain. Activity summary plots are also generated using the timeseries/datatime functionality in Pandas.
 
-###### **Portfolio 2: Appliances energy prediction data**
+**Portfolio 2: Appliances energy prediction data**
 
 An analysis of energy prediction data based on the paper: 
 
@@ -26,7 +26,7 @@ The results that were reproduced in the portfolio include:
 - Performance of linear regression model
 - Recursvie Feature estimation (RFE)
 
-###### **Portfolio 3: Clustering Visualisation**
+**Portfolio 3: Clustering Visualisation**
 
 This porfolio visulazies the unsupervised learning algorithm K-Means clustering.
 
