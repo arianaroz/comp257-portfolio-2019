@@ -5,7 +5,7 @@ Ariana Rozsnyoi
 
 Repository of portfolio projects for semester 2 2019.
 
-### Portfolio projects:
+### Portfolio projects
 
 **Portfolio 1: Analysis of CSV data for cycling**
 
