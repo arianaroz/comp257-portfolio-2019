@@ -1,7 +1,7 @@
 COMP257 Data Science Portfolio 
 ===
 
-Ariana Rozsnoyi
+Ariana Rozsnyoi
 
 Repository of portfolio projects for semester 2 2019.
 
