@@ -17,9 +17,9 @@ An analysis of energy prediction data based on the paper:
    
    Data driven prediction models of energy use of appliances in a low-energy house. Luis M. Candanedo, Véronique Feldheim,    
     Dominique Deramaix. Energy and Buildings, Volume 140, 1 April 2017, Pages 81-97, ISSN 0378-7788,
-    [http://dx.doi.org/10.1016/j.enbuild.2017.01.083].
+    http://dx.doi.org/10.1016/j.enbuild.2017.01.083.
 
-The data was retrieved from the authors [Github Page] (https://github.com/LuisM78/Appliances-energy-prediction-data).
+The data was retrieved from the authors [Github Page](https://github.com/LuisM78/Appliances-energy-prediction-data).
     
 The portfolio reproduces some of the results in the paper predicting energy usage of a house based on IoT measurements of temperature, humidity and weather observations. 
 
